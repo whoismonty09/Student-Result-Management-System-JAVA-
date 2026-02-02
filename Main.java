@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+import java.util.ArList;
 import java.util.Scanner;
 
 class Student {
